@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033806066339",
+    "firebase_url": "https://callmanagement-3ea21.firebaseio.com",
+    "project_id": "callmanagement-3ea21",
+    "storage_bucket": "callmanagement-3ea21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033806066339:android:0ea03e5e95bb2ffe",
+        "android_client_info": {
+          "package_name": "com.example.call_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033806066339-27s1jdp53hfl57399umdj0on35prrsgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.call_management",
+            "certificate_hash": "b2f5e1487abd91b1863dabe9f3b9898dc93839b4"
+          }
+        },
+        {
+          "client_id": "1033806066339-27s1jdp53hfl57399umdj0on35prrsgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRm9ApSkpbWOn_ZezNI3Z0bdBrz0I9f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033806066339-27s1jdp53hfl57399umdj0on35prrsgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
